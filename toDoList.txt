@@ -4,6 +4,3 @@
 4. Attend class
 5. give yourself a treat
 6. Apply for a remote job7 practice code
-Git checkout can be used to revert staged file
-while git reset takes you back to the last commit
-Note, all these are done before you commit
